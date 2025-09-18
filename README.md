@@ -9,7 +9,7 @@ The repo also hosts some baseline systems as we compared in the paper. We would 
 
 If you find this repo useful, please kindly cite the paper below.
 
-@article{zhao2019joint,
+@article{zhao2020joint,
   title={Joint principal component and discriminant analysis for dimensionality reduction},
   author={Zhao, Xiaowei and Guo, Jun and Nie, Feiping and Chen, Ling and Li, Zhihui and Zhang, Huaxiang},
   journal={IEEE transactions on neural networks and learning systems},
